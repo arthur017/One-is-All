@@ -7,13 +7,11 @@ One is All for Linda
 ======================================
 
 .. toctree::
-   :maxdepth: 2
+   :maxdepth: 3
    :caption: 目录:
 
-   example 
    ch00 
-   ch01/ch01_01 
-   ch01/ch01_02 
+   ch01  
 
 
 
